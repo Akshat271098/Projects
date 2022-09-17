@@ -20,3 +20,7 @@ The third plot is a bar plot of the total of daily avg. rainfall for the month o
 As seen in previous plot, Dehradun has the highest amount of rainfall recieved owing to its more erratica showers.
 In general, we can see that Uttarakhand is not all dry during winters and has decent rainfall, as expected in hilly terrains.
 ![3](https://user-images.githubusercontent.com/91468447/190826461-9269c14e-e052-44de-83ab-40a724a15982.png)
+
+### References
+http://data.gov.in
+https://matplotlib.org/
